@@ -31,6 +31,7 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic
 NYPD CompStat2.0: CompStat
 https://compstat.nypdonline.org/2e5c3f4b-85c1-4635-83c6-22b27fe7c75c/view/89
 
+DataSet as of November 2022: [NYC Crime Wave Datasets 2022](https://drive.google.com/drive/folders/1yN8czwfXz-DncnY7In_HAl_XLIfsyv4E?usp=share_link)
 
 Data Cleaning:
 
